@@ -1,5 +1,7 @@
 Educational Investment Data Analysis
+
 Overview
+
 This repository contains a Jupyter Notebook that presents a data analysis for educational investment across various countries and sub-regions. The analysis is based on educational statistics and indicators related to internet usage, government expenditure on education, GDP per capita, population demographics, and more. The primary goal of this project is to identify countries and sub-regions that exhibit promising potential for educational investment.
 
 Dataset
@@ -38,4 +40,4 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Credits
-The dataset used in this analysis is sourced from [insert dataset source here].
+
